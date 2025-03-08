@@ -15,3 +15,21 @@ HTML5: Web sitesinin yapılandırılması için.
 CSS: Stil ve duyarlı tasarım için.
 JavaScript (JS): Dinamik işlevsellik ve etkileşim için.
 API: Ürün verilerini almak ve arka uç işlemlerini yönetmek için.
+# EKRANGORUNTUSU
+
+![bandicam2025-03-0816-58-28-538-ezgif com-crop](https://github.com/user-attachments/assets/633ad396-3837-4934-951f-57645804e216)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
